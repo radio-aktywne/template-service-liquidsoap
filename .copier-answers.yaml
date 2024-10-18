@@ -1,9 +1,9 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 0.10.1
+_commit: 0.11.0
 _src_path: gh:radio-aktywne/template-meta
 accountname: radio-aktywne
-description: Liquidsoap app template 🧴
-reponame: template-app-liquidsoap
-repourl: https://github.com/radio-aktywne/template-app-liquidsoap
+description: Liquidsoap service template 🧴
+reponame: template-service-liquidsoap
+repourl: https://github.com/radio-aktywne/template-service-liquidsoap
 templatename: liquidsoap
-type: app
+type: service
