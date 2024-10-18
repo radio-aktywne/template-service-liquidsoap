@@ -13,16 +13,16 @@ def data() -> dict[str, str]:
 
     return {
         "accountname": "radio-aktywne",
-        "appname": "foo",
-        "description": "Example app",
-        "reponame": "app-foo",
-        "repourl": "https://github.com/radio-aktywne/app-foo",
+        "servicename": "foo",
+        "description": "Example service",
+        "reponame": "foo",
+        "repourl": "https://github.com/radio-aktywne/foo",
         "envprefix": "FOO",
         "docs": "true",
-        "docsurl": "https://radio-aktywne.github.io/app-foo",
+        "docsurl": "https://radio-aktywne.github.io/foo",
         "releases": "true",
         "registry": "true",
-        "imagename": "apps/foo",
+        "imagename": "services/foo",
     }
 
 
